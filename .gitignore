@@ -3,6 +3,7 @@
 # Directories
 /.gradle/
 /build/
+/classes/
 /eclipse/
 /run/
 /out/
